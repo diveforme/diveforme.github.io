@@ -1,7 +1,11 @@
 ---
 layout: single
 title:  "자바스크립트 문법"
-cartegory: [TIL]
+cartegory:
+    - TIL
+tags:
+    - TIL
+    - Javascript
     
 ---
 
