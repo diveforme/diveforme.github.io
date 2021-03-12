@@ -12,7 +12,7 @@ tags:
 
 <figure>
   <img data-action="zoom" src='{{ "https://www.motline.com/files/attach/images/506/587/550/001/df6dd5bdca91bf73e6fe2c09c75fc870.png" | relative_url }}' alt='absolute'>
-  <figcaption>그냥 stay...</figcaption>
+  <figcaption>제발 stay...</figcaption>
 </figure>
 
 어느 정도 사이트 모양새가 나오니 신기하긴했다. 그러나 코드에 대한 이해보다는 그냥 따라친다는 느낌이 들었고, 한 4일동안 만져보다가 접었다. 자바스크립트에 대한 깊은 이해를 먼저 하는 것이 도리🐟일 것 같다는 생각에서다
